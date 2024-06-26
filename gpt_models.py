@@ -53,7 +53,7 @@ def get_gpt_logprobs(model, user_prompt, system_prompt=SYSTEM_PROMPT, temperatur
     return results, response.choices[0].message.content
 
 
-def produce_results(model_name, model, number_of_results=100):
+def produce_results(model_name, model, number_of_results=100) -> None:
     results = []
     for _ in trange(number_of_results):
         logprobs, message = get_gpt_logprobs(model, input, temperature=1)
