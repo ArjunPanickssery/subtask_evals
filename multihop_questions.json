@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Who directed the movie where Jack Dawson drowned?",
+        "checkpoint_answer": "Titanic",
+        "answer": "James Cameron"
+    },
+    {
+        "question": "What is the city where the inventor of the World Wide Web was born?",
+        "checkpoint_answer": "Tim Berners-Lee",
+        "answer": "London"
+    },
+    {
+        "question": "Which space agency launched the telescope named after the scientist who formulated the theory of general relativity?",
+        "checkpoint_answer": "Einstein",
+        "answer": "NASA"
+    },
+    {
+        "question": "What is the native language of the architect who designed the famous opera house in Sydney?",
+        "checkpoint_answer": "J\u00f8rn Utzon",
+        "answer": "Danish"
+    },
+    {
+        "question": "Who is the author of the book where the character named Winston Smith lives in a totalitarian society?",
+        "checkpoint_answer": "1984",
+        "answer": "George Orwell"
+    },
+    {
+        "question": "What is the most populous city in the state where Google is headquartered?",
+        "checkpoint_answer": "California",
+        "answer": "Los Angeles"
+    },
+    {
+        "question": "What is the country where the inventor of the telephone died?",
+        "checkpoint_answer": "Alexander Graham Bell",
+        "answer": "Canada"
+    },
+    {
+        "question": "In which century was the university founded where Tolkien was a professor?",
+        "checkpoint_answer": "Oxford",
+        "answer": "12th century"
+    },
+    {
+        "question": "In what year did the Nobel Prize-winning author of \"The Old Man and the Sea\" purchase the house where he wrote that novel?",
+        "checkpoint_answer": "Ernest Hemingway",
+        "answer": "1940"
+    }
+]
